@@ -1,0 +1,4 @@
+enum ImagePickerType {
+  signle,
+  multi,
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566260570323",
+    "project_id": "meter-reading-b5bb3",
+    "storage_bucket": "meter-reading-b5bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566260570323:android:49d29b2b0e2f48052f1c26",
+        "android_client_info": {
+          "package_name": "com.meter.meter_reading_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr5vUJtYmRIdG2oHVvachYACrL0-v9W2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
